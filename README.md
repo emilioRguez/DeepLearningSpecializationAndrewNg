@@ -1,6 +1,5 @@
 # Deep Learning Specialization Andrew Ng
 
-
  Deep Learning Course of Coursera offered by Professor Andrew Ng of Stanford Unoiversity.
 
  ## Goals
